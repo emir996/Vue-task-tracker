@@ -19,8 +19,9 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Install json server
-
+```
 npm-install -g json server
+```
 
-you can check everything about json server here: https://www.npmjs.com/package/json-server
+You can check everything about json server here: https://www.npmjs.com/package/json-server
 
